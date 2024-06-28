@@ -106,7 +106,7 @@ body{
 }
 
 .presentacion_imagen{
-    width: 50%;
+    width: auto;
     border: 2px solid var(--color-terciario);
 }
 .footer{
